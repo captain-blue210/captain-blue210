@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Captain Blue!
 
 <!--
 **captain-blue210/captain-blue210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
