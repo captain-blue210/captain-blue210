@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [Twitter](https://twitter.com/captain_blue210)
+- [Qiita](https://qiita.com/Captain_Blue)
+- [Zenn](https://zenn.dev/captain_blue)
+- [note](https://note.com/captain_blue)
