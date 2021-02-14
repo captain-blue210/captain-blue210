@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=captain-blue210&show_icons=true&count_private=true&theme=react)
+
 - [Twitter](https://twitter.com/captain_blue210)
 - [Qiita](https://qiita.com/Captain_Blue)
 - [Zenn](https://zenn.dev/captain_blue)
