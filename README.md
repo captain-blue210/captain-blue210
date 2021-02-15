@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - [Qiita](https://qiita.com/Captain_Blue)
 - [Zenn](https://zenn.dev/captain_blue)
 - [note](https://note.com/captain_blue)
+
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Captain_Blue/posts.svg)](http://qiita.com/Captain_Blue)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Captain_Blue/contributions.svg)](http://qiita.com/Captain_Blue)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Captain_Blue/followers.svg)](http://qiita.com/Captain_Blue)
+                
