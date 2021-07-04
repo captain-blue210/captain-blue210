@@ -48,6 +48,9 @@ Here are some ideas to get you started:
   <a href="https://zenn.dev/captain_blue/scraps">
     <img src="https://zenn.badge.nikaera.com/s/captain_blue/scraps?style=for-the-badge" alt="captain_blue scraps" />
   </a>
+  
+## Latest 5 articles
+<!-- LATEST_ARTICLES_START -->
 - [[SQL]JOINの3種類のアルゴリズムについて](https://zenn.dev/captain_blue/articles/three-types-of-join-algorithms)
 - [特定のポートを使っているプロセスを調べてkillする方法](https://zenn.dev/captain_blue/articles/how-to-find-and-kill-process-with-port)
 - [Flutter+Firestoreでリアルタイム取得する](https://zenn.dev/captain_blue/articles/flutter-firestore-realtime-changes)
