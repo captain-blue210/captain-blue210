@@ -14,7 +14,6 @@ RESULT=$(
     sed -n 1,5p
 )
 
-# sed -i -z "/<!-- LATEST_ARTICLES_START -->/,/<!-- LATEST_ARTICLES_END -->/s|<!-- LATEST_ARTICLES_START -->.*<!-- LATEST_ARTICLES_END -->|<!-- LATEST_ARTICLES_START --><!-- LATEST_ARTICLES_END -->|" ./README.md
 sed -i -z 's|<\!-- LATEST_ARTICLES_START -->.*<!-- LATEST_ARTICLES_END -->|<!-- LATEST_ARTICLES_START -->|g' ./README.md
 
 echo "$RESULT" | while read -r line; do
@@ -22,4 +21,3 @@ echo "$RESULT" | while read -r line; do
 done
 
 echo '<!-- LATEST_ARTICLES_END -->' >>./README.md
-# sed -i 's/<!-- LATEST_ARTICLES_START -->/aaaa/' ./README.md
