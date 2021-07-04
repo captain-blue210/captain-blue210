@@ -1,10 +1,7 @@
 name: Update README
-
-defaults:
-  run:
-    shell: on:
+on:
   schedule:
-    - cron: '* * * * *'
+  - cron: '* * * * *'
 
 jobs:
   build:
