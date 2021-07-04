@@ -1,7 +1,11 @@
 name: Update README
-on:
+
+defaults:
+  run:
+    shell: on:
   schedule:
     - cron: '* * * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
