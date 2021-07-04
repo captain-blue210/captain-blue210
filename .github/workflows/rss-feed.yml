@@ -1,10 +1,11 @@
 name: Update README
 on:
   schedule:
-  - cron: '* * * * *'
+    - cron: '* * * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  execute:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
