@@ -51,9 +51,9 @@ Here are some ideas to get you started:
   
 ## Latest 5 articles
 <!-- LATEST_ARTICLES_START -->
-- [FlutterのMain AxisとCross Axisを一発で覚えるには](https://zenn.dev/captain_blue/articles/flutter-main-cross-axis)
 - [[SQL]JOINの3種類のアルゴリズムについて](https://zenn.dev/captain_blue/articles/three-types-of-join-algorithms)
 - [特定のポートを使っているプロセスを調べてkillする方法](https://zenn.dev/captain_blue/articles/how-to-find-and-kill-process-with-port)
 - [Flutter+Firestoreでリアルタイム取得する](https://zenn.dev/captain_blue/articles/flutter-firestore-realtime-changes)
 - [Flutterでキャンセルボタンを独立させた選択肢としてボトムに表示する Cupertino ver.](https://zenn.dev/captain_blue/articles/a0ee8a614001c80340bb)
+- [FirebaseのFunctionsでスクレイピングするときの注意事項](https://zenn.dev/captain_blue/articles/5a0d426453a350e089ed)
 <!-- LATEST_ARTICLES_END -->
