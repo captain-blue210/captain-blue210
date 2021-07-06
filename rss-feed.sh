@@ -9,7 +9,17 @@ RESULT=$(
   curl https://zenn.dev/captain_blue/feed 2>/dev/null |
     grep -oE '(<title>.*?</title>|<link>.*?</link>)' |
     sed 1,4d |
-    awk '{if(NR%2){p=$0}else{print p $0;p=""}}END{if(p)print p}' |
+    awk '{
+      if(NR%2){
+        line=$0
+      }else{
+        print line $0;
+        line=""
+      }
+    }END{
+      if(line)
+        print line
+      }' |
     sed -e "s/<title><\!\[CDATA\[\(.*\)\]\]><\/title><link>\(.*\)<\/link>/- [\1](\2)/" |
     sed -n 1,5p
 )
