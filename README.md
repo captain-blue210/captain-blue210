@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   
 ## Latest 5 articles
 <!-- LATEST_ARTICLES_START -->
+- [シェルスクリプトでZennの投稿をGitHubプロフィールに自動反映してみる](https://zenn.dev/captain_blue/articles/update-github-profile-automatically)
 - [Android StudioでFlutter書くときのTips](https://zenn.dev/captain_blue/articles/android-studio-with-flutter-tips)
 - [FlutterのSafeAreaを使って上下のあいつらを気にしない方法](https://zenn.dev/captain_blue/articles/introduce-sarearea-in-flutter)
 - [FlutterのMain AxisとCross Axisを一発で覚えるには](https://zenn.dev/captain_blue/articles/flutter-main-cross-axis)
 - [[SQL]JOINの3種類のアルゴリズムについて](https://zenn.dev/captain_blue/articles/three-types-of-join-algorithms)
-- [特定のポートを使っているプロセスを調べてkillする方法](https://zenn.dev/captain_blue/articles/how-to-find-and-kill-process-with-port)
 <!-- LATEST_ARTICLES_END -->
