@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   
 ## Latest 5 articles
 <!-- LATEST_ARTICLES_START -->
-- [Flutterで画像をバックグラウンドに表示する](https://zenn.dev/captain_blue/articles/flutter-background-image)
 - [FlutterのExpandedウィジェットを使ってみる](https://zenn.dev/captain_blue/articles/try-to-use-the-expanded-widget)
 - [シェルスクリプトでZennの投稿をGitHubプロフィールに自動反映してみる](https://zenn.dev/captain_blue/articles/update-github-profile-automatically)
 - [Android StudioでFlutter書くときのTips](https://zenn.dev/captain_blue/articles/android-studio-with-flutter-tips)
 - [FlutterのSafeAreaを使って上下のあいつらを気にしない方法](https://zenn.dev/captain_blue/articles/introduce-sarearea-in-flutter)
+- [FlutterのMain AxisとCross Axisを一発で覚えるには](https://zenn.dev/captain_blue/articles/flutter-main-cross-axis)
 <!-- LATEST_ARTICLES_END -->
