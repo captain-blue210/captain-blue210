@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   
 ## Latest 5 articles
 <!-- LATEST_ARTICLES_START -->
-- [Flutterでルート定義をして画面遷移させたい](https://zenn.dev/captain_blue/articles/flutter-how-to-define-named-route)
 - [FlutterでWidgetを隠したり表示したりをコントロールする](https://zenn.dev/captain_blue/articles/flutter-control-visibility)
 - [Flutterの新しいほうのボタンウィジェットのスタイルを変える方法](https://zenn.dev/captain_blue/articles/flutter-apply-style-textbutton)
 - [Flutterで画像をバックグラウンドに表示する](https://zenn.dev/captain_blue/articles/flutter-background-image)
 - [FlutterのExpandedウィジェットを使ってみる](https://zenn.dev/captain_blue/articles/try-to-use-the-expanded-widget)
+- [シェルスクリプトでZennの投稿をGitHubプロフィールに自動反映してみる](https://zenn.dev/captain_blue/articles/update-github-profile-automatically)
 <!-- LATEST_ARTICLES_END -->
