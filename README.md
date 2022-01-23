@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=captain-blue210&show_icons=true&count_private=true&theme=react)
 
-## SNS
+## SNS, Blog
 - [Twitter](https://twitter.com/captain_blue210)
 - [Zenn](https://zenn.dev/captain_blue)
 - [note](https://note.com/captain_blue)
