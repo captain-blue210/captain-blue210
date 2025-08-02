@@ -1,5 +1,3 @@
-# Welcom to my GitHub
-
 ## About me
 
 - 🐈‍⬛ ウェブアプリケーションエンジニア
@@ -8,22 +6,9 @@
 - 🌟 やりたい→PoC/新規開発/EC以外のドメイン
 - 📄 [レジュメ](https://github.com/captain-blue210/resume/tree/main/docs)
 
-<!--
-**captain-blue210/captain-blue210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 
 
 
 <!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=captain-blue210&show_icons=true&count_private=true&theme=react) -->
