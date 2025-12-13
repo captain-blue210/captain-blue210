@@ -7,8 +7,8 @@
 - 📄 [レジュメ](https://github.com/captain-blue210/resume/tree/main/docs)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/FXHTBZ7" target="_blank" rel="noopener noreferrer"><img alt="FXHTBZ7のLAPRASでのスコアは次の通りです: エンジニアリング: 3.56 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.31 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.56&b=3.43&i=3.31&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 12/12/2025, 12:32:41 AM</p>
+<p ><a href="https://lapras.com/public/FXHTBZ7" target="_blank" rel="noopener noreferrer"><img alt="FXHTBZ7のLAPRASでのスコアは次の通りです: エンジニアリング: 3.55 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.31 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=3.43&i=3.31&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 12/13/2025, 12:30:55 AM</p>
 <!--END_SECTION:lapras-card-->
 
 
